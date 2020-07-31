@@ -1,0 +1,21 @@
+.quizzheading{
+    text-align: center;
+}
+.btn{
+    background-color: aqua;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn:hover{
+    background-color: black;
+    border: black;
+    color: white;
+}
+.btndiv{
+    margin-top: 20px;
+}
